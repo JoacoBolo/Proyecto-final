@@ -1,0 +1,99 @@
+body{
+    background: #2e5470
+}
+
+h1{
+    color: #b8b6b4;
+    font-size: 6em;
+    text-align: left;
+    
+}
+
+#imagen{
+    width: 250px;
+    height: 250px;
+}
+
+#h2{
+    display:none;
+}
+
+#titulo{
+    display:flex;
+}
+
+#logo{
+    margin: 60px;
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden; 
+    opacity: 7;
+}
+
+#BtnComprar{
+    width: 250px;
+    background-color: #6fa720;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#head{
+    display: flex;
+    background-color: #171a21;
+    margin: 0px;
+    padding: 0px;
+}
+
+#btnVerJuegos {
+    height: fit-content;
+    background-color: #6fa720;
+}
+
+#btnOcuJuegos {
+    height: fit-content;
+    background-color: #6fa720;
+}
+
+#btnCarrito {
+    height: fit-content;
+    background-color: #6fa720;
+}
+
+#btnOcuCarro {
+    height: fit-content;
+    background-color: #6fa720;
+}
+
+#botones{
+    display: flex;
+    align-items: center;
+}
+
+#jqueryid{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+#juego{
+    display: flex;
+    flex-direction: column;
+    padding: 21px;
+}
+
+h3{
+    margin: 0px;
+}
+
+#card{
+    font-size: 15px;
+}
+
+#button-compra{
+    background-color: #6fa720
+}
